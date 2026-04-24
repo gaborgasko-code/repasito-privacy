@@ -12,9 +12,8 @@ We comply with the EU General Data Protection Regulation (**GDPR**) and, where a
 
 The data controller responsible for your data is:
 
-- **Name:** [YOUR NAME OR COMPANY]
-- **Address:** [YOUR POSTAL ADDRESS]
-- **Contact email:** [YOUR CONTACT EMAIL]
+- **Name:** Gabor Gasko
+- **Contact email:** gaborgasko@gmail.com
 
 > Replace the placeholders above before publishing. If you operate as an individual, put your full legal name and a contact address you are willing to make public. This is a GDPR requirement — the privacy policy must name a controller.
 
@@ -149,4 +148,4 @@ We may update this Privacy Policy when we change the app. The "Last updated" dat
 
 If you have any questions about this Privacy Policy or our handling of your data, contact us at:
 
-**[YOUR CONTACT EMAIL]**
+gaborgasko@gmail.com
